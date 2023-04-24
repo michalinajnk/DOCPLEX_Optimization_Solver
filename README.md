@@ -5,4 +5,4 @@ The following tasks are solved:
 - Inspection Problem
 - Squared Assignment Problem
 
- The visualization is also provied to see the variable size influences on time complexity of the task.
+ The visualization is also provied to see how the variable size influences on time complexity of the task.
